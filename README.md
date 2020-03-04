@@ -10,10 +10,10 @@ Displays if it currently summer for the user
 
 Displays if it currently winter for the user
 
-### This app doesn't do much does it?
+## This app doesn't do much does it?
 
 No, it doesn't, nor is it really useful. This app was made during early learning of the react framework
 
-### Why do you need my location?
+## Why do you need my location?
 
 Your location is needed to determine wether it is currently summer or winter where you are.
