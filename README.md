@@ -12,7 +12,7 @@ Displays if it currently winter for the user
 
 ## This app doesn't do much does it?
 
-No, it doesn't, nor is it really useful. This app was made during early learning of the react framework
+No, it doesn't, nor is it really useful. This app was made during early learning of the react framework and serves no real purpose other than to tell the user something they should already know
 
 ## Why do you need my location?
 
